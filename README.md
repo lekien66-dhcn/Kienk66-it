@@ -17,7 +17,7 @@
 - Robotics
 
 ## 📫 How to reach me
-- **Email:** kienk66.it@gmail.com  
+- **Email:** lekienk66.it@gmail.com  
 - **LinkedIn:** [linkedin.com/in/kienk66-it](https://linkedin.com/in/kienk66-it)
 
 ---
