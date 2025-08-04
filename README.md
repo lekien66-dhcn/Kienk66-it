@@ -1,25 +1,35 @@
-# 👋 Hi there, I'm Kienk66-it
+# 👋 Hi there, I'm Kien Le Trung
 
 ## 👨‍💻 About Me
-- 🎓 Bachelor of Electronics and Telecommunications Engineering  
-- 💻 Passionate about Computer Vision, AI, and Embedded Systems  
-- 🛠️ Experienced with: **Python**, **C++**, **OpenCV**, **Jetson Nano**
+- 🎓 **Bachelor's degree** in Electronics and Telecommunications Engineering (VNU-UET)
+- 💻 Passionate about **Computer Vision**, **Algorithms**, and **C++**
+- 🛠️ Experienced with:
+  - Programming: **C++, CUDA**
+  - Libraries/Tools: **OpenCV, SDL2**
+  - Platforms: **Jetson Nano, Linux, Window**
 
 ## 🚀 Highlight Projects
-- [Smart Attendance System](https://github.com/Kienk66-it/smart-attendance-system): An AI-powered facial recognition attendance system using Python & OpenCV.
-- [IoT Weather Station](https://github.com/Kienk66-it/iot-weather-station): Real-time weather monitoring with ESP32 and web dashboard.
-- [Object Detection Toolkit](https://github.com/Kienk66-it/object-detection-toolkit): Tools for training and evaluating object detection models.
+- 🔸 [**GPU-based Fuzzy Logic Edge Detection**](https://github.com/lekien66-dhcn/GPU_Fuzzy_Logic_Edge_Detection)  
+  Implemented fuzzy logic-based edge detection optimized with **CUDA**, achieving real-time performance on GPU.
+
+- 🔸 **GPU-Accelerated Video Stabilization** *(Coming soon)*  
+  Designed and implemented a real-time video stabilization algorithm targeting **edge devices** using **CUDA** and **OpenCV**.
+
+- 🔸 [**Tic-Tac-Toe Game**](https://github.com/lekien66-dhcn/Game_Caro)  
+  Developed a classic **Tic-Tac-Toe** game with **C++ & SDL2**, featuring AI opponent logic, mouse interaction, UI effects, and animations.
+
+- 🔸 [**Battle City Game**](https://github.com/lekien66-dhcn/Battle_City_Games)  
+  Created a **retro tank shooting game** during Samsung R&D internship using **C++ & SDL2**. Handled game mechanics, collisions, and resource optimization.
 
 ## 🎯 Interests
-- Computer Vision  
-- Machine Learning & Deep Learning  
-- Embedded Systems & IoT  
-- Robotics
+- Computer Vision
+- Algorithms
+- GPU CUDA
 
-## 📫 How to reach me
-- **Email:** lekienk66.it@gmail.com  
-- **LinkedIn:** [linkedin.com/in/kienk66-it](https://linkedin.com/in/kienk66-it)
+## 📫 Contact Me
+- 📧 **Email:** [lekien66.dhcn@gmail.com](mailto:lekien66.dhcn@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/kien-le-trung-3267131a1](https://www.linkedin.com/in/kien-le-trung-3267131a1/)
 
 ---
 
-*Feel free to explore my repositories and connect with me!*
+*Feel free to explore my repositories and connect with me!* 🚀
